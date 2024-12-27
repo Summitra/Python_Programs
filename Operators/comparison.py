@@ -1,0 +1,2 @@
+# Comparison operator
+#   == , ! = , > ,<  , <= , >=
